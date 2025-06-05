@@ -19,4 +19,9 @@ void main() {
   print(s + spa + "ist der" + spa + twelve.toString() + "." +
         seven.toString() + "." + a.toString());                // Heute ist der 12.7.24
   print("Zeit: " + timeStr);                                   // Zeit: Zeit
+
+
+
+
+
 }
