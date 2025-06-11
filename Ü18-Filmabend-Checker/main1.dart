@@ -11,6 +11,9 @@ if (age >= movieAgeRating || hasParentalConsent && ageTest<= 2) {
 } else {
   print('You cannot watch the movie.');
 }
+
+
+
 // Test 2
 int ageo = 13;
 bool hasParentalConsento = false;
@@ -23,3 +26,5 @@ if (ageo >= movieAgeRatingo ||(hasParentalConsento && (movieAgeRatingo - age) <=
 }
   
 }
+
+
