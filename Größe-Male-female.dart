@@ -1,4 +1,4 @@
-void main() {
+void main() { // hier sind die switches ineinander verschachtelt, damit ich die Altersgruppe für männlich und weiblich unterscheiden kann
 int age = 30; // Beispielwert, kann geändert werden
 String sex = "male";// kann zu "female" geändert werden
 switch (sex) {
