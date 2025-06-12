@@ -22,7 +22,6 @@ void main() {
     
     return count > 0 ? sum / count : null;
   }
-
   // Extrahiere Werte für alle drei Kategorien. (temp, rain, wind)
   // Hier wird angenommen, dass die Liste immer 3 Elemente hat.
   // Wenn weniger als 3 Elemente vorhanden sind, sollte eine Fehlerbehandlung erfolgen.
