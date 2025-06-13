@@ -1,6 +1,6 @@
 enum Weekday { monday, tuesday, wednesday, thursday, friday, saturday, sunday }
 void main(){
-final weekday = Weekday.monday; //Beispielwert, kann geändert werden
+final weekday = Weekday.sunday; //Beispielwert, kann geändert werden
 switch (weekday) {
   case Weekday.monday:
   case Weekday.tuesday:
