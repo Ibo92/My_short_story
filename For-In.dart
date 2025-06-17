@@ -13,7 +13,7 @@ void main(){
     summe += point;
   }
 
-  double durchschnitt = summe / points.length;
+  double durchschnitt = summe / points.length; // die Länge der Liste
 
   print('Der Durchschnitt der Punkte ist: $durchschnitt');
   
